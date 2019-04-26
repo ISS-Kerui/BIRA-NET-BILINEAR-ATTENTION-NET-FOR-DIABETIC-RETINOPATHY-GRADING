@@ -3,7 +3,7 @@
 # Introduction
 
 The proposed BiRA-Net is presented in this Section for DR prediction. The proposed BiRA-Net architecture is shown in Fig. 1, which consists of three key components: (i) ResNet, (ii) Attention Net and (iii) Bilinear Net. First, the processed images are put into the ResNet for feature extraction; then
-the Attention Net is applied to concentrate on the suspected area. For more fine-grained classification in this task, a bilinear strategy is adopted, where two RA-Net are trained simultaneously to improve the performance of classification. ![QQ20190426-212322@2x](/Users/zkr/Desktop/new_eye/pic/QQ20190426-212322@2x.png)
+the Attention Net is applied to concentrate on the suspected area. For more fine-grained classification in this task, a bilinear strategy is adopted, where two RA-Net are trained simultaneously to improve the performance of classification. ![QQ20190426-212322@2x](./pic/QQ20190426-212322@2x.png)
 
 ### Installation
 
